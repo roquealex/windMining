@@ -1,0 +1,2 @@
+# windMining
+Wind analytics projects
